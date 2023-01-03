@@ -1,0 +1,15 @@
+/*.body{
+	background-color: black;
+}*/
+
+.btn {
+  padding: 3%;
+  border: 1px solid red;
+  background-color: #0d0907;
+  color: white;
+}
+
+body {
+  background-color: #292929;
+  color: white;
+}
